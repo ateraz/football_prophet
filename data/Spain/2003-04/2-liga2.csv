@@ -1,0 +1,463 @@
+Date,Team 1,Team 2,FT,HT
+2003-08-30,Almeria,Malaga B,3-2,3-1
+2003-08-30,Cadiz,Poli Ejido,2-1,0-0
+2003-08-31,Ciudad de Murcia,Recreativo,1-1,1-0
+2003-08-31,Eibar,Algeciras,2-1,0-0
+2003-08-31,Leganes,Salamanca,0-0,0-0
+2003-08-31,Numancia,Cordoba,1-0,0-0
+2003-08-31,Sp Gijon,Getafe,0-2,0-0
+2003-08-31,Tenerife,Alaves,1-0,1-0
+2003-08-31,Terrassa,Xerez,1-1,0-0
+2003-08-31,Vallecano,Levante,0-2,0-2
+2003-09-06,Las Palmas,Leganes,2-2,2-0
+2003-09-06,Levante,Elche,1-1,0-0
+2003-09-06,Malaga B,Cadiz,1-3,1-1
+2003-09-06,Xerez,Vallecano,0-0,0-0
+2003-09-07,Alaves,Sp Gijon,2-1,1-1
+2003-09-07,Algeciras,Tenerife,1-1,1-0
+2003-09-07,Cordoba,Ciudad de Murcia,1-1,1-1
+2003-09-07,Getafe,Almeria,1-1,1-1
+2003-09-07,Poli Ejido,Terrassa,2-1,0-0
+2003-09-07,Recreativo,Eibar,1-0,1-0
+2003-09-07,Salamanca,Numancia,1-0,1-0
+2003-09-13,Elche,Xerez,1-1,1-0
+2003-09-13,Malaga B,Getafe,1-1,0-0
+2003-09-13,Tenerife,Recreativo,2-1,2-1
+2003-09-13,Vallecano,Poli Ejido,3-1,1-0
+2003-09-14,Almeria,Alaves,2-1,1-0
+2003-09-14,Cadiz,Terrassa,2-0,1-0
+2003-09-14,Ciudad de Murcia,Salamanca,1-1,1-1
+2003-09-14,Eibar,Cordoba,0-0,0-0
+2003-09-14,Leganes,Levante,0-0,0-0
+2003-09-14,Numancia,Las Palmas,2-0,1-0
+2003-09-14,Sp Gijon,Algeciras,3-2,1-1
+2003-09-17,Elche,Las Palmas,1-2,0-0
+2003-09-20,Algeciras,Almeria,0-0,0-0
+2003-09-20,Salamanca,Eibar,1-2,0-2
+2003-09-20,Terrassa,Vallecano,1-2,0-1
+2003-09-21,Alaves,Malaga B,1-0,0-0
+2003-09-21,Cordoba,Tenerife,1-1,1-1
+2003-09-21,Getafe,Cadiz,3-2,1-1
+2003-09-21,Las Palmas,Ciudad de Murcia,2-3,1-3
+2003-09-21,Levante,Numancia,4-0,1-0
+2003-09-21,Poli Ejido,Elche,1-2,0-1
+2003-09-21,Recreativo,Sp Gijon,1-1,1-0
+2003-09-21,Xerez,Leganes,1-1,0-0
+2003-09-27,Almeria,Recreativo,2-2,1-1
+2003-09-27,Eibar,Las Palmas,1-1,0-0
+2003-09-27,Elche,Terrassa,2-3,2-2
+2003-09-27,Getafe,Alaves,0-0,0-0
+2003-09-27,Leganes,Poli Ejido,0-0,0-0
+2003-09-27,Numancia,Xerez,0-0,0-0
+2003-09-28,Cadiz,Vallecano,1-0,0-0
+2003-09-28,Ciudad de Murcia,Levante,0-0,0-0
+2003-09-28,Malaga B,Algeciras,0-0,0-0
+2003-09-28,Sp Gijon,Cordoba,1-1,1-1
+2003-09-28,Tenerife,Salamanca,1-1,0-0
+2003-10-04,Alaves,Cadiz,2-0,2-0
+2003-10-04,Cordoba,Almeria,0-1,0-0
+2003-10-04,Las Palmas,Tenerife,1-1,1-0
+2003-10-04,Poli Ejido,Numancia,1-3,0-1
+2003-10-04,Recreativo,Malaga B,0-0,0-0
+2003-10-05,Algeciras,Getafe,3-0,0-0
+2003-10-05,Levante,Eibar,1-0,0-0
+2003-10-05,Salamanca,Sp Gijon,0-2,0-2
+2003-10-05,Terrassa,Leganes,0-1,0-0
+2003-10-05,Vallecano,Elche,1-2,0-2
+2003-10-05,Xerez,Ciudad de Murcia,2-1,1-0
+2003-10-11,Eibar,Xerez,0-0,0-0
+2003-10-11,Leganes,Vallecano,1-1,1-0
+2003-10-11,Tenerife,Levante,1-1,0-1
+2003-10-12,Alaves,Algeciras,1-1,0-1
+2003-10-12,Almeria,Salamanca,0-0,0-0
+2003-10-12,Cadiz,Elche,1-1,0-0
+2003-10-12,Ciudad de Murcia,Poli Ejido,2-2,1-1
+2003-10-12,Getafe,Recreativo,0-0,0-0
+2003-10-12,Malaga B,Cordoba,2-2,0-2
+2003-10-12,Numancia,Terrassa,2-0,1-0
+2003-10-12,Sp Gijon,Las Palmas,1-1,0-0
+2003-10-18,Cordoba,Getafe,0-0,0-0
+2003-10-18,Las Palmas,Almeria,1-1,0-0
+2003-10-18,Levante,Sp Gijon,2-1,0-1
+2003-10-19,Algeciras,Cadiz,0-1,0-1
+2003-10-19,Elche,Leganes,1-0,1-0
+2003-10-19,Poli Ejido,Eibar,0-0,0-0
+2003-10-19,Recreativo,Alaves,0-0,0-0
+2003-10-19,Salamanca,Malaga B,1-1,0-1
+2003-10-19,Terrassa,Ciudad de Murcia,0-0,0-0
+2003-10-19,Vallecano,Numancia,2-5,1-2
+2003-10-19,Xerez,Tenerife,0-0,0-0
+2003-10-24,Ciudad de Murcia,Vallecano,2-1,0-0
+2003-10-25,Algeciras,Recreativo,2-2,0-1
+2003-10-25,Eibar,Terrassa,3-1,0-0
+2003-10-25,Numancia,Elche,2-0,0-0
+2003-10-26,Alaves,Cordoba,1-0,0-0
+2003-10-26,Almeria,Levante,1-0,0-0
+2003-10-26,Cadiz,Leganes,1-2,0-1
+2003-10-26,Getafe,Salamanca,1-1,1-1
+2003-10-26,Malaga B,Las Palmas,0-1,0-1
+2003-10-26,Sp Gijon,Xerez,3-0,1-0
+2003-10-26,Tenerife,Poli Ejido,0-1,0-0
+2003-11-01,Las Palmas,Getafe,1-1,0-1
+2003-11-01,Recreativo,Cadiz,1-0,0-0
+2003-11-01,Terrassa,Tenerife,1-1,0-0
+2003-11-01,Vallecano,Eibar,0-1,0-0
+2003-11-02,Cordoba,Algeciras,2-0,0-0
+2003-11-02,Elche,Ciudad de Murcia,2-2,2-1
+2003-11-02,Leganes,Numancia,0-2,0-0
+2003-11-02,Levante,Malaga B,1-0,0-0
+2003-11-02,Poli Ejido,Sp Gijon,0-0,0-0
+2003-11-02,Salamanca,Alaves,3-1,2-1
+2003-11-02,Xerez,Almeria,0-1,0-1
+2003-11-08,Alaves,Las Palmas,1-0,0-0
+2003-11-09,Algeciras,Salamanca,0-1,0-0
+2003-11-08,Almeria,Poli Ejido,3-1,1-0
+2003-11-09,Cadiz,Numancia,2-0,1-0
+2003-11-09,Ciudad de Murcia,Leganes,1-1,0-0
+2003-11-09,Eibar,Elche,0-1,0-0
+2003-11-09,Getafe,Levante,0-0,0-0
+2003-11-09,Malaga B,Xerez,5-2,1-0
+2003-11-09,Recreativo,Cordoba,0-2,0-1
+2003-11-09,Sp Gijon,Terrassa,1-0,1-0
+2003-11-09,Tenerife,Vallecano,2-1,1-1
+2003-11-15,Cordoba,Cadiz,1-0,0-0
+2003-11-15,Las Palmas,Algeciras,2-2,0-2
+2003-11-15,Leganes,Eibar,1-2,0-0
+2003-11-15,Levante,Alaves,0-0,0-0
+2003-11-16,Elche,Tenerife,2-0,0-0
+2003-11-16,Numancia,Ciudad de Murcia,7-0,3-0
+2003-11-16,Poli Ejido,Malaga B,1-2,1-1
+2003-11-16,Salamanca,Recreativo,1-1,0-1
+2003-11-16,Terrassa,Almeria,0-0,0-0
+2003-11-16,Vallecano,Sp Gijon,2-1,1-0
+2003-11-16,Xerez,Getafe,1-2,0-1
+2003-11-22,Algeciras,Levante,0-1,0-0
+2003-11-22,Eibar,Numancia,1-1,0-1
+2003-11-22,Tenerife,Leganes,0-0,0-0
+2003-11-23,Alaves,Xerez,1-1,1-0
+2003-11-23,Almeria,Vallecano,1-2,1-1
+2003-11-23,Cadiz,Ciudad de Murcia,2-1,1-0
+2003-11-23,Cordoba,Salamanca,1-0,0-0
+2003-11-23,Getafe,Poli Ejido,1-1,0-0
+2003-11-23,Recreativo,Las Palmas,2-2,0-0
+2003-11-23,Sp Gijon,Elche,2-0,0-0
+2003-11-24,Malaga B,Terrassa,1-3,0-2
+2003-11-29,Elche,Almeria,3-3,1-2
+2003-11-29,Las Palmas,Cordoba,3-1,0-1
+2003-11-29,Numancia,Tenerife,2-1,1-1
+2003-11-29,Terrassa,Getafe,1-2,0-1
+2003-11-30,Ciudad de Murcia,Eibar,1-3,1-1
+2003-11-30,Leganes,Sp Gijon,1-3,1-0
+2003-11-30,Levante,Recreativo,0-0,0-0
+2003-11-30,Poli Ejido,Alaves,1-3,0-1
+2003-11-30,Salamanca,Cadiz,0-0,0-0
+2003-11-30,Vallecano,Malaga B,2-1,1-1
+2003-11-30,Xerez,Algeciras,2-1,1-1
+2003-12-06,Alaves,Terrassa,0-1,0-0
+2003-12-06,Getafe,Vallecano,3-1,2-0
+2003-12-06,Recreativo,Xerez,0-0,0-0
+2003-12-06,Salamanca,Las Palmas,2-0,1-0
+2003-12-07,Algeciras,Poli Ejido,0-1,0-0
+2003-12-07,Almeria,Leganes,1-3,0-1
+2003-12-07,Cadiz,Eibar,0-0,0-0
+2003-12-07,Cordoba,Levante,1-1,0-0
+2003-12-07,Malaga B,Elche,1-1,1-1
+2003-12-07,Sp Gijon,Numancia,1-0,0-0
+2003-12-07,Tenerife,Ciudad de Murcia,1-1,0-0
+2003-12-13,Eibar,Tenerife,0-0,0-0
+2003-12-13,Las Palmas,Cadiz,0-2,0-0
+2003-12-13,Levante,Salamanca,2-1,1-0
+2003-12-13,Terrassa,Algeciras,0-0,0-0
+2003-12-13,Vallecano,Alaves,1-2,1-1
+2003-12-13,Xerez,Cordoba,0-0,0-0
+2003-12-14,Ciudad de Murcia,Sp Gijon,3-2,0-1
+2003-12-14,Elche,Getafe,1-1,0-0
+2003-12-14,Leganes,Malaga B,2-1,1-1
+2003-12-14,Numancia,Almeria,0-0,0-0
+2003-12-14,Poli Ejido,Recreativo,2-0,0-0
+2003-12-20,Cadiz,Tenerife,4-1,3-0
+2003-12-20,Las Palmas,Levante,1-2,0-1
+2003-12-20,Malaga B,Numancia,0-2,0-1
+2003-12-20,Recreativo,Terrassa,1-2,1-1
+2003-12-21,Alaves,Elche,2-1,0-1
+2003-12-21,Algeciras,Vallecano,1-1,1-1
+2003-12-21,Almeria,Ciudad de Murcia,2-3,0-1
+2003-12-21,Cordoba,Poli Ejido,1-0,0-0
+2003-12-21,Getafe,Leganes,3-1,1-1
+2003-12-21,Salamanca,Xerez,2-2,2-2
+2003-12-21,Sp Gijon,Eibar,1-0,1-0
+2004-01-03,Eibar,Almeria,1-0,1-0
+2004-01-03,Numancia,Getafe,0-0,0-0
+2004-01-03,Tenerife,Sp Gijon,0-1,0-0
+2004-01-03,Terrassa,Cordoba,1-0,1-0
+2004-01-04,Ciudad de Murcia,Malaga B,3-1,2-1
+2004-01-04,Elche,Algeciras,3-2,2-1
+2004-01-04,Leganes,Alaves,0-0,0-0
+2004-01-04,Levante,Cadiz,2-1,1-0
+2004-01-04,Poli Ejido,Salamanca,1-3,0-3
+2004-01-04,Vallecano,Recreativo,1-2,1-0
+2004-01-04,Xerez,Las Palmas,4-4,3-3
+2004-01-10,Almeria,Tenerife,0-0,0-0
+2004-01-10,Getafe,Ciudad de Murcia,2-2,0-1
+2004-01-10,Las Palmas,Poli Ejido,0-0,0-0
+2004-01-11,Alaves,Numancia,1-1,1-1
+2004-01-11,Algeciras,Leganes,1-2,0-2
+2004-01-11,Cadiz,Sp Gijon,0-1,0-0
+2004-01-11,Cordoba,Vallecano,2-3,1-1
+2004-01-11,Levante,Xerez,0-1,0-0
+2004-01-11,Malaga B,Eibar,1-0,1-0
+2004-01-11,Recreativo,Elche,3-0,3-0
+2004-01-11,Salamanca,Terrassa,2-3,0-2
+2004-01-17,Elche,Cordoba,1-1,1-1
+2004-01-17,Leganes,Recreativo,0-2,0-0
+2004-01-17,Terrassa,Las Palmas,2-2,1-2
+2004-01-18,Cadiz,Xerez,2-2,1-0
+2004-01-18,Ciudad de Murcia,Alaves,0-1,0-0
+2004-01-18,Eibar,Getafe,2-0,1-0
+2004-01-18,Numancia,Algeciras,0-1,0-0
+2004-01-18,Poli Ejido,Levante,1-0,0-0
+2004-01-18,Sp Gijon,Almeria,2-0,0-0
+2004-01-18,Tenerife,Malaga B,0-1,0-1
+2004-01-18,Vallecano,Salamanca,1-1,1-0
+2004-01-24,Almeria,Cadiz,1-2,1-0
+2004-01-24,Getafe,Tenerife,1-0,0-0
+2004-01-24,Las Palmas,Vallecano,1-0,0-0
+2004-01-24,Levante,Terrassa,2-1,2-1
+2004-01-25,Alaves,Eibar,0-2,0-0
+2004-01-25,Algeciras,Ciudad de Murcia,2-0,2-0
+2004-01-25,Cordoba,Leganes,1-3,0-1
+2004-01-25,Recreativo,Numancia,2-0,0-0
+2004-01-25,Salamanca,Elche,3-0,1-0
+2004-01-25,Xerez,Poli Ejido,1-0,0-0
+2004-01-26,Malaga B,Sp Gijon,0-0,0-0
+2004-01-31,Alaves,Tenerife,0-0,0-0
+2004-01-31,Las Palmas,Elche,1-2,0-2
+2004-01-31,Xerez,Terrassa,0-1,0-0
+2004-02-01,Algeciras,Eibar,2-2,0-2
+2004-02-01,Cordoba,Numancia,0-0,0-0
+2004-02-01,Getafe,Sp Gijon,0-2,0-0
+2004-02-01,Levante,Vallecano,3-1,0-1
+2004-02-01,Malaga B,Almeria,2-2,1-1
+2004-02-01,Poli Ejido,Cadiz,1-0,0-0
+2004-02-01,Recreativo,Ciudad de Murcia,1-1,1-0
+2004-02-01,Salamanca,Leganes,3-1,1-1
+2004-02-07,Cadiz,Malaga B,0-1,0-1
+2004-02-07,Eibar,Recreativo,1-1,0-1
+2004-02-07,Elche,Levante,1-0,0-0
+2004-02-07,Leganes,Las Palmas,0-2,0-0
+2004-02-08,Almeria,Getafe,0-1,0-0
+2004-02-08,Ciudad de Murcia,Cordoba,1-2,0-1
+2004-02-08,Numancia,Salamanca,0-0,0-0
+2004-02-08,Sp Gijon,Alaves,2-0,1-0
+2004-02-08,Tenerife,Algeciras,0-0,0-0
+2004-02-08,Terrassa,Poli Ejido,2-0,1-0
+2004-02-08,Vallecano,Xerez,2-1,1-0
+2004-02-14,Las Palmas,Numancia,2-1,1-0
+2004-02-14,Poli Ejido,Vallecano,1-0,1-0
+2004-02-14,Recreativo,Tenerife,0-0,0-0
+2004-02-15,Alaves,Almeria,2-0,0-0
+2004-02-15,Algeciras,Sp Gijon,0-3,0-2
+2004-02-15,Cordoba,Eibar,1-0,0-0
+2004-02-15,Getafe,Malaga B,2-1,0-0
+2004-02-15,Levante,Leganes,1-0,0-0
+2004-02-15,Salamanca,Ciudad de Murcia,1-2,1-2
+2004-02-15,Terrassa,Cadiz,1-0,0-0
+2004-02-15,Xerez,Elche,2-1,0-1
+2004-02-21,Cadiz,Getafe,2-1,1-0
+2004-02-21,Ciudad de Murcia,Las Palmas,3-1,1-0
+2004-02-21,Malaga B,Alaves,2-1,1-0
+2004-02-21,Vallecano,Terrassa,1-0,1-0
+2004-02-22,Almeria,Algeciras,2-2,1-1
+2004-02-22,Eibar,Salamanca,0-0,0-0
+2004-02-22,Elche,Poli Ejido,1-2,1-2
+2004-02-22,Leganes,Xerez,3-3,1-1
+2004-02-22,Numancia,Levante,3-1,2-1
+2004-02-22,Sp Gijon,Recreativo,0-0,0-0
+2004-02-22,Tenerife,Cordoba,1-0,0-0
+2004-02-28,Las Palmas,Eibar,1-0,0-0
+2004-02-28,Recreativo,Almeria,1-0,0-0
+2004-02-28,Salamanca,Tenerife,2-2,1-0
+2004-02-28,Terrassa,Elche,1-1,1-1
+2004-02-28,Xerez,Numancia,0-1,0-1
+2004-02-29,Algeciras,Malaga B,0-0,0-0
+2004-02-29,Cordoba,Sp Gijon,4-1,1-1
+2004-02-29,Levante,Ciudad de Murcia,0-0,0-0
+2004-02-29,Poli Ejido,Leganes,2-1,1-1
+2004-02-29,Vallecano,Cadiz,2-0,2-0
+2004-03-06,Almeria,Cordoba,1-1,1-1
+2004-03-06,Eibar,Levante,2-0,0-0
+2004-03-06,Getafe,Algeciras,3-0,3-0
+2004-03-06,Malaga B,Recreativo,0-0,0-0
+2004-03-07,Cadiz,Alaves,1-1,0-0
+2004-03-07,Ciudad de Murcia,Xerez,0-1,0-1
+2004-03-07,Elche,Vallecano,2-1,0-1
+2004-03-07,Leganes,Terrassa,1-0,1-0
+2004-03-07,Numancia,Poli Ejido,1-0,1-0
+2004-03-07,Sp Gijon,Salamanca,1-1,0-0
+2004-03-07,Tenerife,Las Palmas,2-0,2-0
+2004-03-13,Algeciras,Alaves,1-2,1-2
+2004-03-13,Levante,Tenerife,1-0,1-0
+2004-03-13,Poli Ejido,Ciudad de Murcia,0-1,0-0
+2004-03-13,Recreativo,Getafe,2-0,2-0
+2004-03-13,Vallecano,Leganes,0-0,0-0
+2004-03-14,Cordoba,Malaga B,0-1,0-1
+2004-03-14,Elche,Cadiz,1-0,1-0
+2004-03-14,Las Palmas,Sp Gijon,1-2,0-0
+2004-03-14,Salamanca,Almeria,0-0,0-0
+2004-03-14,Terrassa,Numancia,0-1,0-1
+2004-03-14,Xerez,Eibar,1-1,1-0
+2004-03-20,Almeria,Las Palmas,3-0,0-0
+2004-03-20,Eibar,Poli Ejido,0-0,0-0
+2004-03-20,Getafe,Cordoba,1-0,1-0
+2004-03-20,Malaga B,Salamanca,2-2,2-1
+2004-03-21,Alaves,Recreativo,1-1,0-0
+2004-03-21,Cadiz,Algeciras,2-1,2-0
+2004-03-21,Ciudad de Murcia,Terrassa,2-2,1-1
+2004-03-21,Leganes,Elche,2-0,1-0
+2004-03-21,Numancia,Vallecano,1-0,0-0
+2004-03-21,Sp Gijon,Levante,1-2,0-1
+2004-03-21,Tenerife,Xerez,2-1,2-1
+2004-03-24,Alaves,Getafe,3-0,1-0
+2004-03-27,Las Palmas,Malaga B,1-1,1-0
+2004-03-27,Terrassa,Eibar,2-1,1-0
+2004-03-27,Vallecano,Ciudad de Murcia,2-0,0-0
+2004-03-28,Cordoba,Alaves,0-0,0-0
+2004-03-28,Elche,Numancia,1-1,0-1
+2004-03-28,Leganes,Cadiz,0-1,0-1
+2004-03-28,Levante,Almeria,2-1,0-0
+2004-03-28,Poli Ejido,Tenerife,1-0,1-0
+2004-03-28,Recreativo,Algeciras,1-0,1-0
+2004-03-28,Salamanca,Getafe,0-1,0-0
+2004-03-28,Xerez,Sp Gijon,2-1,1-0
+2004-04-03,Algeciras,Cordoba,0-1,0-1
+2004-04-03,Ciudad de Murcia,Elche,2-0,0-0
+2004-04-03,Eibar,Vallecano,5-0,1-0
+2004-04-03,Getafe,Las Palmas,3-0,0-0
+2004-04-03,Malaga B,Levante,1-5,1-2
+2004-04-04,Alaves,Salamanca,1-0,0-0
+2004-04-04,Almeria,Xerez,1-2,1-1
+2004-04-04,Cadiz,Recreativo,3-1,1-0
+2004-04-04,Numancia,Leganes,3-0,0-0
+2004-04-04,Sp Gijon,Poli Ejido,1-0,0-0
+2004-04-04,Tenerife,Terrassa,0-0,0-0
+2004-04-10,Numancia,Cadiz,2-0,1-0
+2004-04-10,Poli Ejido,Almeria,1-2,1-2
+2004-04-10,Terrassa,Sp Gijon,1-0,1-0
+2004-04-10,Vallecano,Tenerife,1-1,1-0
+2004-04-11,Cordoba,Recreativo,1-2,1-1
+2004-04-11,Elche,Eibar,2-0,1-0
+2004-04-11,Las Palmas,Alaves,1-2,0-1
+2004-04-11,Leganes,Ciudad de Murcia,0-0,0-0
+2004-04-11,Levante,Getafe,1-1,0-0
+2004-04-11,Salamanca,Algeciras,1-0,1-0
+2004-04-11,Xerez,Malaga B,2-1,1-1
+2004-04-17,Cadiz,Cordoba,0-0,0-0
+2004-04-17,Eibar,Leganes,1-1,0-1
+2004-04-17,Sp Gijon,Vallecano,3-1,1-1
+2004-04-17,Tenerife,Elche,2-1,1-1
+2004-04-18,Alaves,Levante,3-2,2-2
+2004-04-18,Algeciras,Las Palmas,2-0,0-0
+2004-04-18,Almeria,Terrassa,0-2,0-0
+2004-04-18,Ciudad de Murcia,Numancia,0-2,0-0
+2004-04-18,Getafe,Xerez,0-0,0-0
+2004-04-18,Malaga B,Poli Ejido,0-0,0-0
+2004-04-18,Recreativo,Salamanca,3-1,1-0
+2004-04-24,Ciudad de Murcia,Cadiz,2-2,2-0
+2004-04-24,Las Palmas,Recreativo,0-4,0-0
+2004-04-24,Leganes,Tenerife,0-0,0-0
+2004-04-24,Vallecano,Almeria,1-1,1-0
+2004-04-24,Xerez,Alaves,1-2,1-1
+2004-04-25,Elche,Sp Gijon,2-1,1-0
+2004-04-25,Levante,Algeciras,3-1,1-1
+2004-04-25,Numancia,Eibar,2-3,1-1
+2004-04-25,Poli Ejido,Getafe,0-0,0-0
+2004-04-25,Salamanca,Cordoba,3-0,1-0
+2004-04-25,Terrassa,Malaga B,0-1,0-0
+2004-05-01,Alaves,Poli Ejido,0-0,0-0
+2004-05-01,Cordoba,Las Palmas,1-2,1-1
+2004-05-01,Getafe,Terrassa,2-0,1-0
+2004-05-01,Malaga B,Vallecano,2-1,0-1
+2004-05-02,Almeria,Elche,3-1,2-1
+2004-05-02,Cadiz,Salamanca,3-3,0-3
+2004-05-02,Eibar,Ciudad de Murcia,0-2,0-1
+2004-05-02,Recreativo,Levante,0-0,0-0
+2004-05-02,Sp Gijon,Leganes,1-1,1-0
+2004-05-02,Tenerife,Numancia,1-0,0-0
+2004-05-08,Ciudad de Murcia,Tenerife,2-3,2-1
+2004-05-08,Las Palmas,Salamanca,1-1,1-1
+2004-05-08,Levante,Cordoba,2-2,2-1
+2004-05-08,Terrassa,Alaves,0-0,0-0
+2004-05-08,Vallecano,Getafe,1-2,1-0
+2004-05-09,Eibar,Cadiz,0-1,0-0
+2004-05-09,Elche,Malaga B,2-3,2-0
+2004-05-09,Leganes,Almeria,0-0,0-0
+2004-05-09,Numancia,Sp Gijon,1-1,0-0
+2004-05-09,Poli Ejido,Algeciras,0-0,0-0
+2004-05-09,Xerez,Recreativo,1-0,1-0
+2004-05-15,Cadiz,Las Palmas,4-1,0-1
+2004-05-15,Getafe,Elche,3-1,1-1
+2004-05-15,Malaga B,Leganes,0-0,0-0
+2004-05-15,Recreativo,Poli Ejido,1-0,0-0
+2004-05-16,Alaves,Vallecano,3-0,2-0
+2004-05-16,Algeciras,Terrassa,2-1,1-0
+2004-05-16,Almeria,Numancia,1-1,1-1
+2004-05-16,Cordoba,Xerez,1-2,0-1
+2004-05-16,Salamanca,Levante,0-1,0-0
+2004-05-16,Sp Gijon,Ciudad de Murcia,4-1,1-0
+2004-05-16,Tenerife,Eibar,1-1,0-1
+2004-05-22,Elche,Alaves,0-2,0-1
+2004-05-22,Tenerife,Cadiz,2-2,2-1
+2004-05-22,Xerez,Salamanca,3-0,1-0
+2004-05-23,Ciudad de Murcia,Almeria,1-1,1-0
+2004-05-23,Eibar,Sp Gijon,2-2,0-0
+2004-05-23,Leganes,Getafe,0-0,0-0
+2004-05-23,Levante,Las Palmas,2-0,1-0
+2004-05-23,Numancia,Malaga B,3-0,1-0
+2004-05-23,Poli Ejido,Cordoba,1-1,1-1
+2004-05-23,Terrassa,Recreativo,2-2,1-2
+2004-05-23,Vallecano,Algeciras,2-2,1-2
+2004-05-27,Algeciras,Xerez,2-1,1-1
+2004-05-29,Alaves,Leganes,1-1,1-1
+2004-05-29,Malaga B,Ciudad de Murcia,2-0,0-0
+2004-05-29,Sp Gijon,Tenerife,0-2,0-0
+2004-05-30,Cordoba,Terrassa,2-2,2-2
+2004-05-30,Algeciras,Elche,2-2,2-1
+2004-05-30,Almeria,Eibar,1-0,0-0
+2004-05-30,Cadiz,Levante,0-3,0-1
+2004-05-30,Getafe,Numancia,2-1,0-0
+2004-05-30,Las Palmas,Xerez,1-1,0-1
+2004-05-30,Recreativo,Vallecano,0-0,0-0
+2004-05-30,Salamanca,Poli Ejido,0-0,0-0
+2004-06-05,Ciudad de Murcia,Getafe,1-2,0-1
+2004-06-05,Eibar,Malaga B,3-3,2-1
+2004-06-05,Poli Ejido,Las Palmas,1-0,1-0
+2004-06-05,Terrassa,Salamanca,1-1,1-1
+2004-06-05,Xerez,Levante,1-2,0-0
+2004-06-06,Elche,Recreativo,2-0,1-0
+2004-06-06,Leganes,Algeciras,3-2,2-1
+2004-06-06,Numancia,Alaves,3-1,1-0
+2004-06-06,Sp Gijon,Cadiz,2-0,1-0
+2004-06-06,Tenerife,Almeria,2-0,0-0
+2004-06-06,Vallecano,Cordoba,2-0,0-0
+2004-06-11,Xerez,Cadiz,1-1,0-0
+2004-06-13,Alaves,Ciudad de Murcia,1-0,1-0
+2004-06-13,Algeciras,Numancia,0-1,0-1
+2004-06-13,Almeria,Sp Gijon,2-1,0-0
+2004-06-13,Cordoba,Elche,1-0,1-0
+2004-06-13,Getafe,Eibar,2-1,1-0
+2004-06-13,Las Palmas,Terrassa,2-1,0-1
+2004-06-13,Levante,Poli Ejido,2-0,1-0
+2004-06-13,Malaga B,Tenerife,2-2,1-1
+2004-06-13,Recreativo,Leganes,3-1,2-1
+2004-06-13,Salamanca,Vallecano,1-1,0-1
+2004-06-18,Elche,Salamanca,1-2,1-1
+2004-06-19,Cadiz,Almeria,2-1,0-0
+2004-06-19,Ciudad de Murcia,Algeciras,2-0,1-0
+2004-06-19,Eibar,Alaves,1-2,0-1
+2004-06-19,Leganes,Cordoba,0-1,0-1
+2004-06-19,Numancia,Recreativo,2-0,1-0
+2004-06-19,Poli Ejido,Xerez,1-0,1-0
+2004-06-19,Sp Gijon,Malaga B,1-0,1-0
+2004-06-19,Tenerife,Getafe,3-5,1-3
+2004-06-19,Terrassa,Levante,4-4,1-1
+2004-06-19,Vallecano,Las Palmas,1-2,0-1

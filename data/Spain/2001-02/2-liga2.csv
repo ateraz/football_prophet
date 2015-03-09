@@ -1,0 +1,463 @@
+Date,Team 1,Team 2,FT,HT
+2001-08-25,Ath Madrid,Jaen,2-0,0-0
+2001-08-25,Poli Ejido,Burgos,0-1,0-0
+2001-08-25,Elche,Ferrol,0-0,0-0
+2001-08-25,Gimnastic,Santander,0-0,0-0
+2001-08-26,Albacete,Levante,3-0,0-0
+2001-08-26,Badajoz,Recreativo,1-0,0-0
+2001-08-26,Cordoba,Leganes,1-1,0-1
+2001-08-26,Murcia,Eibar,0-0,0-0
+2001-08-26,Numancia,Salamanca,2-2,2-0
+2001-08-26,Oviedo,Extremadura,1-1,0-0
+2001-08-26,Xerez,Sp Gijon,1-0,0-0
+2001-09-01,Eibar,Ath Madrid,0-3,0-2
+2001-09-01,Ferrol,Murcia,2-0,1-0
+2001-09-02,Burgos,Gimnastic,1-0,1-0
+2001-09-02,Extremadura,Xerez,0-1,0-1
+2001-09-02,Jaen,Poli Ejido,3-1,1-0
+2001-09-02,Leganes,Elche,0-0,0-0
+2001-09-02,Levante,Cordoba,3-1,2-1
+2001-09-02,Santander,Oviedo,1-1,1-0
+2001-09-02,Recreativo,Numancia,1-0,0-0
+2001-09-02,Salamanca,Albacete,2-0,2-0
+2001-09-02,Sp Gijon,Badajoz,3-0,0-0
+2001-09-08,Albacete,Recreativo,0-0,0-0
+2001-09-08,Ath Madrid,Ferrol,1-1,0-1
+2001-09-08,Elche,Levante,2-2,1-1
+2001-09-08,Gimnastic,Jaen,0-2,0-0
+2001-09-08,Xerez,Badajoz,2-0,0-0
+2001-09-09,Cordoba,Salamanca,4-2,0-0
+2001-09-09,Poli Ejido,Eibar,0-0,0-0
+2001-09-09,Extremadura,Santander,2-0,1-0
+2001-09-09,Murcia,Leganes,0-0,0-0
+2001-09-09,Numancia,Sp Gijon,3-1,1-0
+2001-09-09,Oviedo,Burgos,2-0,1-0
+2001-09-15,Ferrol,Poli Ejido,2-1,0-1
+2001-09-15,Recreativo,Cordoba,2-1,0-0
+2001-09-15,Salamanca,Elche,1-0,0-0
+2001-09-16,Badajoz,Numancia,0-0,0-0
+2001-09-16,Burgos,Extremadura,1-0,0-0
+2001-09-16,Eibar,Gimnastic,3-1,2-1
+2001-09-16,Jaen,Oviedo,1-3,1-1
+2001-09-16,Leganes,Ath Madrid,0-3,0-2
+2001-09-16,Levante,Murcia,0-0,0-0
+2001-09-16,Santander,Xerez,1-0,1-0
+2001-09-16,Sp Gijon,Albacete,0-0,0-0
+2001-09-22,Ath Madrid,Levante,2-1,1-1
+2001-09-22,Extremadura,Jaen,5-0,2-0
+2001-09-23,Albacete,Badajoz,2-0,1-0
+2001-09-23,Cordoba,Sp Gijon,1-2,1-2
+2001-09-23,Poli Ejido,Leganes,1-1,0-0
+2001-09-23,Elche,Recreativo,1-1,1-0
+2001-09-23,Murcia,Salamanca,3-3,2-2
+2001-09-23,Oviedo,Eibar,1-0,0-0
+2001-09-23,Santander,Burgos,0-2,0-0
+2001-09-23,Xerez,Numancia,2-1,0-1
+2001-09-29,Badajoz,Cordoba,0-1,0-1
+2001-09-29,Eibar,Extremadura,0-0,0-0
+2001-09-29,Jaen,Santander,0-0,0-0
+2001-09-29,Leganes,Gimnastic,2-1,2-0
+2001-09-29,Numancia,Albacete,1-0,1-0
+2001-09-29,Recreativo,Murcia,0-1,0-1
+2001-09-29,Salamanca,Ath Madrid,0-0,0-0
+2001-09-29,Sp Gijon,Elche,0-1,0-0
+2001-09-30,Burgos,Xerez,3-1,1-1
+2001-09-30,Levante,Poli Ejido,0-0,0-0
+2001-09-30,Ferrol,Oviedo,0-2,0-0
+2001-10-02,Ath Madrid,Recreativo,1-1,0-1
+2001-10-03,Burgos,Jaen,0-0,0-0
+2001-10-03,Cordoba,Numancia,1-0,1-0
+2001-10-03,Poli Ejido,Salamanca,2-5,1-1
+2001-10-03,Elche,Badajoz,1-0,0-0
+2001-10-03,Extremadura,Ferrol,1-2,1-0
+2001-10-03,Gimnastic,Levante,1-0,0-0
+2001-10-03,Murcia,Sp Gijon,3-1,1-0
+2001-10-03,Oviedo,Leganes,0-0,0-0
+2001-10-03,Santander,Eibar,1-1,1-0
+2001-10-03,Xerez,Albacete,1-2,0-1
+2001-10-06,Jaen,Xerez,0-2,0-1
+2001-10-06,Levante,Oviedo,0-0,0-0
+2001-10-07,Albacete,Cordoba,0-0,0-0
+2001-10-07,Badajoz,Murcia,1-1,0-1
+2001-10-07,Eibar,Burgos,1-0,0-0
+2001-10-07,Leganes,Extremadura,2-0,1-0
+2001-10-07,Numancia,Elche,1-1,0-0
+2001-10-07,Ferrol,Santander,2-0,1-0
+2001-10-07,Recreativo,Poli Ejido,1-0,1-0
+2001-10-07,Salamanca,Gimnastic,3-3,1-3
+2001-10-07,Sp Gijon,Ath Madrid,2-1,1-0
+2001-10-13,Santander,Leganes,3-1,1-0
+2001-10-13,Xerez,Cordoba,1-0,0-0
+2001-10-14,Ath Madrid,Badajoz,1-0,0-0
+2001-10-14,Burgos,Ferrol,2-4,1-2
+2001-10-14,Poli Ejido,Sp Gijon,2-2,0-1
+2001-10-14,Elche,Albacete,1-0,1-0
+2001-10-14,Extremadura,Levante,1-0,1-0
+2001-10-14,Gimnastic,Recreativo,1-2,0-2
+2001-10-14,Jaen,Eibar,0-0,0-0
+2001-10-14,Murcia,Numancia,1-2,1-2
+2001-10-14,Oviedo,Salamanca,0-0,0-0
+2001-10-20,Cordoba,Elche,3-0,1-0
+2001-10-20,Leganes,Burgos,0-0,0-0
+2001-10-20,Ferrol,Jaen,0-1,0-0
+2001-10-21,Albacete,Murcia,1-0,0-0
+2001-10-21,Badajoz,Poli Ejido,0-1,0-0
+2001-10-21,Eibar,Xerez,2-0,2-0
+2001-10-21,Levante,Santander,1-1,1-1
+2001-10-21,Numancia,Ath Madrid,1-2,0-1
+2001-10-21,Recreativo,Oviedo,0-2,0-0
+2001-10-21,Salamanca,Extremadura,0-0,0-0
+2001-10-21,Sp Gijon,Gimnastic,1-1,1-0
+2001-10-27,Ath Madrid,Albacete,3-2,1-1
+2001-10-27,Eibar,Ferrol,2-0,0-0
+2001-10-27,Poli Ejido,Numancia,3-4,1-2
+2001-10-27,Xerez,Elche,2-0,1-0
+2001-10-28,Burgos,Levante,0-1,0-1
+2001-10-28,Extremadura,Recreativo,0-3,0-3
+2001-10-28,Gimnastic,Badajoz,1-1,0-0
+2001-10-28,Jaen,Leganes,1-0,1-0
+2001-10-28,Murcia,Cordoba,1-0,0-0
+2001-10-28,Oviedo,Sp Gijon,0-2,0-1
+2001-10-28,Santander,Salamanca,2-0,1-0
+2001-11-03,Albacete,Poli Ejido,2-1,2-0
+2001-11-03,Cordoba,Ath Madrid,0-2,0-1
+2001-11-03,Leganes,Eibar,1-0,0-0
+2001-11-03,Numancia,Gimnastic,0-0,0-0
+2001-11-03,Recreativo,Santander,1-1,0-0
+2001-11-03,Sp Gijon,Extremadura,1-1,1-1
+2001-11-04,Badajoz,Oviedo,1-0,0-0
+2001-11-04,Elche,Murcia,1-1,1-0
+2001-11-04,Levante,Jaen,0-1,0-0
+2001-11-04,Ferrol,Xerez,2-2,0-2
+2001-11-04,Salamanca,Burgos,0-1,0-0
+2001-11-06,Poli Ejido,Cordoba,1-1,1-1
+2001-11-07,Ath Madrid,Elche,4-0,2-0
+2001-11-07,Burgos,Recreativo,1-3,0-1
+2001-11-07,Eibar,Levante,7-0,4-0
+2001-11-07,Extremadura,Badajoz,0-4,0-1
+2001-11-07,Gimnastic,Albacete,0-1,0-1
+2001-11-07,Jaen,Salamanca,0-1,0-1
+2001-11-07,Oviedo,Numancia,0-0,0-0
+2001-11-07,Santander,Sp Gijon,2-1,1-0
+2001-11-07,Xerez,Murcia,3-1,0-0
+2001-11-08,Ferrol,Leganes,3-0,1-0
+2001-11-10,Sp Gijon,Burgos,0-1,0-0
+2001-11-11,Albacete,Oviedo,1-1,0-0
+2001-11-11,Badajoz,Santander,3-2,2-0
+2001-11-11,Cordoba,Gimnastic,1-1,0-0
+2001-11-11,Elche,Poli Ejido,2-0,1-0
+2001-11-11,Leganes,Xerez,0-1,0-1
+2001-11-11,Levante,Ferrol,3-1,2-1
+2001-11-11,Murcia,Ath Madrid,3-1,2-1
+2001-11-11,Numancia,Extremadura,0-0,0-0
+2001-11-11,Recreativo,Jaen,0-3,0-1
+2001-11-11,Salamanca,Eibar,1-0,1-0
+2001-11-14,Gimnastic,Ferrol,2-0,2-0
+2001-11-17,Jaen,Sp Gijon,3-3,2-0
+2001-11-17,Santander,Numancia,4-0,2-0
+2001-11-18,Burgos,Badajoz,0-1,0-0
+2001-11-18,Eibar,Recreativo,1-1,0-1
+2001-11-18,Poli Ejido,Murcia,0-0,0-0
+2001-11-18,Extremadura,Albacete,0-0,0-0
+2001-11-18,Gimnastic,Elche,1-2,1-1
+2001-11-18,Leganes,Levante,2-1,1-1
+2001-11-18,Oviedo,Cordoba,3-1,1-1
+2001-11-18,Ferrol,Salamanca,3-1,2-1
+2001-11-18,Xerez,Ath Madrid,0-1,0-1
+2001-11-24,Ath Madrid,Poli Ejido,1-0,1-0
+2001-11-24,Cordoba,Extremadura,2-0,1-0
+2001-11-24,Elche,Oviedo,2-0,0-0
+2001-11-24,Recreativo,Ferrol,1-0,1-0
+2001-11-25,Albacete,Santander,0-1,0-0
+2001-11-25,Badajoz,Jaen,1-0,1-0
+2001-11-25,Levante,Xerez,0-1,0-0
+2001-11-25,Murcia,Gimnastic,0-2,0-1
+2001-11-25,Numancia,Burgos,1-5,1-3
+2001-11-25,Salamanca,Leganes,1-0,1-0
+2001-11-25,Sp Gijon,Eibar,1-0,1-0
+2001-12-01,Jaen,Numancia,1-2,0-2
+2001-12-01,Xerez,Poli Ejido,2-1,1-0
+2001-12-02,Burgos,Albacete,0-0,0-0
+2001-12-02,Eibar,Badajoz,0-1,0-1
+2001-12-02,Extremadura,Elche,1-0,1-0
+2001-12-02,Gimnastic,Ath Madrid,1-2,0-0
+2001-12-02,Leganes,Recreativo,0-0,0-0
+2001-12-02,Levante,Salamanca,2-2,0-0
+2001-12-02,Oviedo,Murcia,2-0,1-0
+2001-12-02,Ferrol,Sp Gijon,1-2,1-2
+2001-12-02,Santander,Cordoba,2-0,1-0
+2001-12-08,Cordoba,Burgos,1-1,0-0
+2001-12-08,Elche,Santander,1-1,0-0
+2001-12-09,Albacete,Jaen,4-0,0-0
+2001-12-09,Ath Madrid,Oviedo,0-0,0-0
+2001-12-09,Badajoz,Ferrol,2-1,1-0
+2001-12-09,Poli Ejido,Gimnastic,1-0,0-0
+2001-12-09,Murcia,Extremadura,2-1,2-0
+2001-12-09,Numancia,Eibar,1-1,0-0
+2001-12-09,Recreativo,Levante,0-0,0-0
+2001-12-09,Salamanca,Xerez,1-1,1-1
+2001-12-09,Sp Gijon,Leganes,1-1,1-1
+2001-12-15,Levante,Sp Gijon,4-3,0-2
+2001-12-15,Xerez,Gimnastic,2-1,2-0
+2001-12-16,Burgos,Elche,0-0,0-0
+2001-12-16,Eibar,Albacete,1-0,0-0
+2001-12-16,Extremadura,Ath Madrid,2-0,1-0
+2001-12-16,Jaen,Cordoba,1-2,1-0
+2001-12-16,Leganes,Badajoz,1-0,0-0
+2001-12-16,Oviedo,Poli Ejido,1-1,0-0
+2001-12-16,Ferrol,Numancia,2-1,1-1
+2001-12-16,Santander,Murcia,1-0,1-0
+2001-12-16,Salamanca,Recreativo,2-3,1-1
+2001-12-22,Albacete,Ferrol,2-1,1-1
+2001-12-22,Ath Madrid,Santander,2-0,0-0
+2001-12-23,Badajoz,Levante,2-2,0-1
+2001-12-23,Cordoba,Eibar,0-2,0-1
+2001-12-22,Poli Ejido,Extremadura,0-0,0-0
+2001-12-22,Elche,Jaen,1-3,1-1
+2001-12-23,Gimnastic,Oviedo,1-0,0-0
+2001-12-22,Murcia,Burgos,1-2,0-2
+2001-12-22,Numancia,Leganes,1-0,0-0
+2001-12-23,Sp Gijon,Salamanca,1-1,1-1
+2001-12-23,Xerez,Recreativo,0-0,0-0
+2002-01-05,Oviedo,Xerez,1-0,0-0
+2002-01-05,Santander,Poli Ejido,2-1,1-1
+2002-01-06,Burgos,Ath Madrid,0-4,0-1
+2002-01-06,Eibar,Elche,3-1,0-0
+2002-01-06,Extremadura,Gimnastic,1-0,0-0
+2002-01-06,Jaen,Murcia,0-0,0-0
+2002-01-06,Leganes,Albacete,1-2,1-1
+2002-01-06,Levante,Numancia,0-1,0-0
+2002-01-06,Ferrol,Cordoba,1-3,0-0
+2002-01-06,Recreativo,Sp Gijon,0-0,0-0
+2002-01-06,Salamanca,Badajoz,2-2,2-1
+2002-01-12,Ferrol,Elche,1-0,0-0
+2002-01-12,Recreativo,Badajoz,2-0,1-0
+2002-01-13,Burgos,Poli Ejido,2-0,1-0
+2002-01-13,Eibar,Murcia,0-1,0-1
+2002-01-13,Extremadura,Oviedo,1-1,1-0
+2002-01-13,Jaen,Ath Madrid,1-0,1-0
+2002-01-13,Leganes,Cordoba,1-1,0-1
+2002-01-13,Levante,Albacete,1-1,0-1
+2002-01-13,Santander,Gimnastic,3-0,1-0
+2002-01-13,Salamanca,Numancia,2-0,0-0
+2002-01-13,Sp Gijon,Xerez,0-1,0-0
+2002-01-19,Ath Madrid,Eibar,1-0,0-0
+2002-01-19,Gimnastic,Burgos,0-0,0-0
+2002-01-19,Xerez,Extremadura,1-2,0-1
+2002-01-20,Albacete,Salamanca,0-1,0-0
+2002-01-20,Badajoz,Sp Gijon,1-2,1-1
+2002-01-20,Cordoba,Levante,3-1,0-1
+2002-01-20,Poli Ejido,Jaen,1-0,1-0
+2002-01-20,Elche,Leganes,1-0,1-0
+2002-01-20,Murcia,Ferrol,1-2,1-0
+2002-01-20,Numancia,Recreativo,0-0,0-0
+2002-01-20,Oviedo,Santander,0-0,0-0
+2002-01-26,Levante,Elche,1-1,1-0
+2002-01-26,Ferrol,Ath Madrid,1-1,1-1
+2002-01-27,Badajoz,Xerez,1-0,0-0
+2002-01-27,Burgos,Oviedo,1-1,0-1
+2002-01-27,Eibar,Poli Ejido,4-2,1-0
+2002-01-27,Jaen,Gimnastic,0-1,0-1
+2002-01-27,Leganes,Murcia,0-0,0-0
+2002-01-27,Santander,Extremadura,1-1,1-0
+2002-01-27,Recreativo,Albacete,3-1,1-0
+2002-01-27,Salamanca,Cordoba,0-0,0-0
+2002-01-27,Sp Gijon,Numancia,2-1,2-0
+2002-02-02,Ath Madrid,Leganes,0-2,0-0
+2002-02-02,Cordoba,Recreativo,0-0,0-0
+2002-02-02,Elche,Salamanca,4-1,3-1
+2002-02-02,Extremadura,Burgos,2-0,2-0
+2002-02-02,Murcia,Levante,0-1,0-0
+2002-02-02,Numancia,Badajoz,1-2,0-1
+2002-02-02,Oviedo,Jaen,0-0,0-0
+2002-02-03,Albacete,Sp Gijon,1-2,1-1
+2002-02-03,Poli Ejido,Ferrol,3-0,1-0
+2002-02-03,Gimnastic,Eibar,1-0,0-0
+2002-02-03,Xerez,Santander,2-1,1-0
+2002-02-06,Badajoz,Albacete,2-3,2-0
+2002-02-06,Burgos,Santander,0-0,0-0
+2002-02-06,Eibar,Oviedo,1-1,0-1
+2002-02-06,Jaen,Extremadura,1-0,1-0
+2002-02-06,Leganes,Poli Ejido,2-0,0-0
+2002-02-06,Numancia,Xerez,1-1,1-0
+2002-02-06,Ferrol,Gimnastic,1-2,0-1
+2002-02-06,Recreativo,Elche,1-0,0-0
+2002-02-06,Salamanca,Murcia,0-0,0-0
+2002-02-06,Sp Gijon,Cordoba,3-0,2-0
+2002-02-07,Levante,Ath Madrid,2-4,1-1
+2002-02-09,Oviedo,Ferrol,2-1,0-1
+2002-02-09,Santander,Jaen,2-0,0-0
+2002-02-10,Albacete,Numancia,3-1,1-0
+2002-02-10,Ath Madrid,Salamanca,2-1,1-0
+2002-02-10,Cordoba,Badajoz,1-2,1-1
+2002-02-10,Poli Ejido,Levante,1-0,1-0
+2002-02-10,Elche,Sp Gijon,1-0,0-0
+2002-02-10,Extremadura,Eibar,0-1,0-1
+2002-02-10,Gimnastic,Leganes,0-1,0-1
+2002-02-10,Murcia,Recreativo,2-0,0-0
+2002-02-10,Xerez,Burgos,1-0,1-0
+2002-02-16,Jaen,Burgos,0-0,0-0
+2002-02-16,Leganes,Oviedo,1-3,0-2
+2002-02-16,Levante,Gimnastic,2-2,1-0
+2002-02-16,Recreativo,Ath Madrid,1-3,0-2
+2002-02-17,Albacete,Xerez,3-0,2-0
+2002-02-17,Badajoz,Elche,1-3,1-0
+2002-02-17,Eibar,Santander,2-2,1-1
+2002-02-17,Numancia,Cordoba,0-2,0-1
+2002-02-17,Ferrol,Extremadura,2-0,0-0
+2002-02-17,Salamanca,Poli Ejido,0-2,0-1
+2002-02-17,Sp Gijon,Murcia,0-1,0-1
+2002-02-23,Burgos,Eibar,0-0,0-0
+2002-02-23,Poli Ejido,Recreativo,0-0,0-0
+2002-02-24,Ath Madrid,Sp Gijon,0-1,0-0
+2002-02-24,Cordoba,Albacete,3-1,1-0
+2002-02-24,Elche,Numancia,1-1,0-0
+2002-02-24,Extremadura,Leganes,2-1,1-0
+2002-02-24,Gimnastic,Salamanca,2-2,0-1
+2002-02-24,Murcia,Badajoz,1-1,1-0
+2002-02-24,Oviedo,Levante,1-1,0-1
+2002-02-24,Santander,Ferrol,0-1,0-0
+2002-02-24,Xerez,Jaen,1-0,0-0
+2002-03-02,Leganes,Santander,1-4,0-2
+2002-03-02,Recreativo,Gimnastic,1-0,0-0
+2002-03-03,Albacete,Elche,0-2,0-0
+2002-03-03,Badajoz,Ath Madrid,0-1,0-1
+2002-03-03,Cordoba,Xerez,0-0,0-0
+2002-03-03,Eibar,Jaen,1-1,1-0
+2002-03-03,Levante,Extremadura,1-0,1-0
+2002-03-03,Numancia,Murcia,1-0,1-0
+2002-03-03,Ferrol,Burgos,3-0,1-0
+2002-03-03,Salamanca,Oviedo,3-0,0-0
+2002-03-03,Sp Gijon,Poli Ejido,1-1,1-1
+2002-03-09,Ath Madrid,Numancia,2-2,1-0
+2002-03-10,Burgos,Leganes,0-0,0-0
+2002-03-10,Poli Ejido,Badajoz,1-0,0-0
+2002-03-10,Elche,Cordoba,2-3,1-0
+2002-03-10,Extremadura,Salamanca,0-1,0-0
+2002-03-10,Gimnastic,Sp Gijon,1-1,1-1
+2002-03-10,Jaen,Ferrol,1-4,0-1
+2002-03-10,Murcia,Albacete,0-0,0-0
+2002-03-10,Oviedo,Recreativo,1-1,0-0
+2002-03-10,Santander,Levante,4-2,1-1
+2002-03-10,Xerez,Eibar,1-0,0-0
+2002-03-16,Albacete,Ath Madrid,2-1,2-1
+2002-03-17,Badajoz,Gimnastic,2-1,1-0
+2002-03-17,Cordoba,Murcia,2-1,0-0
+2002-03-17,Elche,Xerez,4-0,2-0
+2002-03-17,Leganes,Jaen,2-0,1-0
+2002-03-17,Levante,Burgos,0-0,0-0
+2002-03-17,Numancia,Poli Ejido,3-0,0-0
+2002-03-17,Ferrol,Eibar,1-1,1-1
+2002-03-17,Recreativo,Extremadura,3-2,2-2
+2002-03-17,Salamanca,Santander,1-2,0-1
+2002-03-17,Sp Gijon,Oviedo,0-0,0-0
+2002-03-23,Ath Madrid,Cordoba,0-0,0-0
+2002-03-23,Eibar,Leganes,0-0,0-0
+2002-03-23,Gimnastic,Numancia,3-1,3-0
+2002-03-23,Xerez,Ferrol,2-1,1-0
+2002-03-24,Burgos,Salamanca,0-0,0-0
+2002-03-24,Poli Ejido,Albacete,2-0,0-0
+2002-03-24,Extremadura,Sp Gijon,1-2,1-2
+2002-03-24,Jaen,Levante,0-1,0-0
+2002-03-24,Murcia,Elche,2-1,1-0
+2002-03-24,Oviedo,Badajoz,1-0,1-0
+2002-03-24,Santander,Recreativo,1-5,0-1
+2002-03-30,Albacete,Gimnastic,1-0,1-0
+2002-03-30,Cordoba,Poli Ejido,0-1,0-0
+2002-03-30,Elche,Ath Madrid,5-1,2-0
+2002-03-30,Leganes,Ferrol,2-2,1-1
+2002-03-30,Numancia,Oviedo,1-2,1-0
+2002-03-31,Badajoz,Extremadura,2-2,1-2
+2002-03-31,Levante,Eibar,0-0,0-0
+2002-03-31,Murcia,Xerez,0-0,0-0
+2002-03-31,Recreativo,Burgos,0-1,0-1
+2002-03-31,Salamanca,Jaen,0-1,0-1
+2002-03-31,Sp Gijon,Santander,1-1,0-1
+2002-04-06,Ath Madrid,Murcia,4-2,2-1
+2002-04-06,Xerez,Leganes,3-3,1-2
+2002-04-07,Burgos,Sp Gijon,0-0,0-0
+2002-04-07,Eibar,Salamanca,0-1,0-0
+2002-04-07,Poli Ejido,Elche,0-0,0-0
+2002-04-07,Extremadura,Numancia,0-2,0-1
+2002-04-07,Gimnastic,Cordoba,1-0,0-0
+2002-04-07,Jaen,Recreativo,1-1,0-0
+2002-04-07,Oviedo,Albacete,0-0,0-0
+2002-04-07,Ferrol,Levante,1-2,0-1
+2002-04-07,Santander,Badajoz,3-0,0-0
+2002-04-13,Levante,Leganes,1-2,1-0
+2002-04-13,Recreativo,Eibar,1-0,0-0
+2002-04-14,Albacete,Extremadura,1-1,1-1
+2002-04-14,Ath Madrid,Xerez,0-0,0-0
+2002-04-14,Badajoz,Burgos,2-3,1-1
+2002-04-14,Cordoba,Oviedo,0-1,0-0
+2002-04-14,Elche,Gimnastic,1-0,0-0
+2002-04-14,Murcia,Poli Ejido,0-1,0-0
+2002-04-14,Numancia,Santander,0-1,0-1
+2002-04-14,Salamanca,Ferrol,3-1,1-0
+2002-04-14,Sp Gijon,Jaen,3-2,2-1
+2002-04-20,Burgos,Numancia,1-1,0-1
+2002-04-20,Eibar,Sp Gijon,2-0,1-0
+2002-04-20,Poli Ejido,Ath Madrid,1-2,0-1
+2002-04-20,Extremadura,Cordoba,3-2,2-0
+2002-04-20,Gimnastic,Murcia,1-1,0-0
+2002-04-20,Jaen,Badajoz,0-1,0-0
+2002-04-20,Leganes,Salamanca,3-1,1-1
+2002-04-20,Oviedo,Elche,3-6,0-3
+2002-04-20,Ferrol,Recreativo,1-1,0-0
+2002-04-20,Santander,Albacete,3-1,0-0
+2002-04-20,Xerez,Levante,0-1,0-0
+2002-04-27,Ath Madrid,Gimnastic,3-3,1-1
+2002-04-27,Poli Ejido,Xerez,1-1,0-1
+2002-04-27,Elche,Extremadura,0-0,0-0
+2002-04-28,Albacete,Burgos,2-1,1-0
+2002-04-28,Badajoz,Eibar,0-1,0-0
+2002-04-28,Cordoba,Santander,0-4,0-1
+2002-04-28,Murcia,Oviedo,1-1,1-0
+2002-04-28,Numancia,Jaen,1-0,0-0
+2002-04-28,Recreativo,Leganes,1-2,1-0
+2002-04-28,Salamanca,Levante,0-1,0-0
+2002-04-28,Sp Gijon,Ferrol,5-3,4-1
+2002-05-04,Eibar,Numancia,2-0,0-0
+2002-05-04,Extremadura,Murcia,0-2,0-2
+2002-05-04,Gimnastic,Poli Ejido,2-2,2-1
+2002-05-04,Jaen,Albacete,1-0,0-0
+2002-05-04,Leganes,Sp Gijon,0-2,0-1
+2002-05-04,Santander,Elche,0-0,0-0
+2002-05-04,Xerez,Salamanca,0-2,0-1
+2002-05-05,Burgos,Cordoba,0-1,0-1
+2002-05-05,Levante,Recreativo,0-1,0-0
+2002-05-05,Oviedo,Ath Madrid,2-3,1-1
+2002-05-05,Ferrol,Badajoz,1-0,1-0
+2002-05-11,Ath Madrid,Extremadura,3-2,2-1
+2002-05-11,Cordoba,Jaen,2-1,1-1
+2002-05-11,Gimnastic,Xerez,2-1,2-0
+2002-05-11,Recreativo,Salamanca,2-0,2-0
+2002-05-11,Sp Gijon,Levante,0-1,0-1
+2002-05-12,Albacete,Eibar,0-0,0-0
+2002-05-12,Badajoz,Leganes,3-2,2-1
+2002-05-12,Poli Ejido,Oviedo,3-0,1-0
+2002-05-12,Elche,Burgos,2-0,1-0
+2002-05-12,Murcia,Santander,0-0,0-0
+2002-05-12,Numancia,Ferrol,4-0,3-0
+2002-05-18,Ferrol,Albacete,2-0,1-0
+2002-05-19,Burgos,Murcia,0-1,0-0
+2002-05-19,Eibar,Cordoba,2-1,1-0
+2002-05-19,Extremadura,Poli Ejido,1-1,1-0
+2002-05-19,Jaen,Elche,0-1,0-0
+2002-05-19,Leganes,Numancia,0-1,0-1
+2002-05-19,Levante,Badajoz,0-1,0-0
+2002-05-19,Oviedo,Gimnastic,0-2,0-1
+2002-05-19,Santander,Ath Madrid,1-0,0-0
+2002-05-19,Recreativo,Xerez,2-1,1-1
+2002-05-19,Salamanca,Sp Gijon,1-2,0-2
+2002-05-25,Albacete,Leganes,1-2,1-1
+2002-05-25,Ath Madrid,Burgos,1-1,1-1
+2002-05-25,Badajoz,Salamanca,2-2,1-1
+2002-05-25,Cordoba,Ferrol,1-1,0-0
+2002-05-25,Poli Ejido,Santander,1-0,0-0
+2002-05-25,Elche,Eibar,0-0,0-0
+2002-05-25,Gimnastic,Extremadura,3-1,0-0
+2002-05-25,Murcia,Jaen,3-0,0-0
+2002-05-25,Numancia,Levante,1-2,0-1
+2002-05-25,Sp Gijon,Recreativo,3-1,0-0
+2002-05-25,Xerez,Oviedo,2-1,0-1
