@@ -3,7 +3,7 @@ import re
 
 import config
 import utils
-import features
+from features import BaseFeature, NotEnoughDataException
 
 
 class Tournament(object):
@@ -103,4 +103,24 @@ class Game(object):
         self.away_team.add_game(self)
 
     def get_features(self):
-        return tuple(feature.evaluate(self) for feature in features.BaseFeature.registry.values())
+        return tuple(feature.evaluate(self) for feature in BaseFeature.registry.values())
+
+    def get_result(self):
+        return (
+            self.home_scored > self.away_scored,
+            self.home_scored == self.away_scored,
+            self.home_scored < self.away_scored
+        )
+
+    @classmethod
+    def get_training_examples(cls):
+        features = []
+        results = []
+        for game in cls.all_games:
+            try:
+                features.append(game.get_features())
+            except NotEnoughDataException:
+                pass
+            else:
+                results.append(game.get_result())
+        return features, results
